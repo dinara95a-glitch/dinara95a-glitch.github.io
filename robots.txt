@@ -1,0 +1,8 @@
+text
+User-agent: Yandex
+Allow: /
+
+User-agent: *
+Disallow:
+
+Sitemap: https://divingdiscavery.ru/sitemap.xml
